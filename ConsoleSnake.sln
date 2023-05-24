@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33717.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSnake", "ConsoleSnake\ConsoleSnake.csproj", "{7109DB4F-F0AB-4CEC-8CB2-39FFE6592637}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleSnake", "ConsoleSnake\ConsoleSnake.csproj", "{7109DB4F-F0AB-4CEC-8CB2-39FFE6592637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSnakeNative", "ConsoleSnakeNative\ConsoleSnakeNative.csproj", "{2424AC4E-D031-4EEB-924E-45C6EA60E967}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7109DB4F-F0AB-4CEC-8CB2-39FFE6592637}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7109DB4F-F0AB-4CEC-8CB2-39FFE6592637}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7109DB4F-F0AB-4CEC-8CB2-39FFE6592637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2424AC4E-D031-4EEB-924E-45C6EA60E967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2424AC4E-D031-4EEB-924E-45C6EA60E967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2424AC4E-D031-4EEB-924E-45C6EA60E967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2424AC4E-D031-4EEB-924E-45C6EA60E967}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
